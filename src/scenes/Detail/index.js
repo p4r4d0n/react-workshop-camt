@@ -10,6 +10,7 @@ export default class Detail extends Component {
     state = {
         movie : {},
         modalIsOpen: false,
+        test: ''
     }
 
     componentDidMount() {
@@ -42,7 +43,8 @@ export default class Detail extends Component {
     
     closeModal = () => {
         this.setState({modalIsOpen: false});
-        
+
+
     }
 
     render(){
