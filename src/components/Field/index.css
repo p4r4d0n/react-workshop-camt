@@ -1,0 +1,13 @@
+.form-group{
+    text-align: center;
+    padding: 10px 10px 50px 10px;
+    color: #FE8065;
+}
+
+.form {
+    background: #FFFFFF;
+    border: 1px solid rgba(34, 36, 38, 0.16);
+    box-sizing: border-box;
+    border-radius: 2px;
+    padding: 8px 16px;
+}

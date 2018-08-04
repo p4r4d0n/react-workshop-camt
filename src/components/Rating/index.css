@@ -1,0 +1,19 @@
+.rating {
+    color: #A7A7A7
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center */
+}
+
+.rating .star {
+    background-image: url('./star.svg');
+    background-repeat: no-repeat;
+    display: inline;
+    padding-left: 25px;
+    font-size: 0.8em
+}
+
+.rating-number {
+    color: #FFDA44;
+}

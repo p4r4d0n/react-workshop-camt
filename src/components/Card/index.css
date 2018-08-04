@@ -1,0 +1,14 @@
+.card {
+    padding: 20px 0 20px 0;
+    color: #A7A7A7;
+}
+
+.card-header {
+    font-size: 0.8em;
+    color: #FE8065
+}
+
+.card-thumbnail {
+    padding: 5px;
+    margin: 5px 0 5px 0;
+}

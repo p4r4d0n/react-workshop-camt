@@ -1,0 +1,21 @@
+.btn-danger {
+    background-color: #FE8065;
+}
+
+.btn-grey {
+    background-color: #C3C3C3;
+}
+
+.btn {
+    border: 0;
+    opacity: 0.9;
+    cursor: pointer;
+    color: #FAFAFA;
+    padding: 8px 16px;
+    box-sizing: border-box;
+    text-decoration: none
+}
+
+.btn:hover {
+    opacity: 1;
+}

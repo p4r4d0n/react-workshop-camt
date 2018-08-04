@@ -1,0 +1,20 @@
+.header {
+  padding: 20px 10% 20px 10%;
+  background-color: #00CECC;
+  color: #fafafa;
+  border: 1px solid rgba(34, 36, 38, 0.16);
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+.username {
+  float: right;
+  color: #FFFFFF;
+}
+
+.brand {
+  background-image: url('./popcorn.svg');
+  display: inline;
+  background-repeat: no-repeat;
+  padding: 10px 0 10px 50px;
+}

@@ -1,0 +1,31 @@
+.movie-detail-container {
+    padding: 20px 0 50px 0; 
+    display: flex;
+    justify-content: center
+}
+
+.movie-detail-content {
+    padding: 0 50px 0 50px;
+    text-align: left
+}
+
+.movie-detail-content b {
+    color: #00CECC;
+    font-size: 0.9em
+}
+
+.movie-detail-content span {
+    font-style: italic;
+    font-size: 0.8em
+}
+
+.movie-detail-button{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.movie-detail-button button {
+    margin-right: 20px
+}
