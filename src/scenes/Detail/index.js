@@ -42,6 +42,7 @@ export default class Detail extends Component {
     
     closeModal = () => {
         this.setState({modalIsOpen: false});
+        
     }
 
     render(){
